@@ -143,8 +143,8 @@ This project is **not intended for commercial use**.
 Implemented by **Salvador Martínez**  
 Full-Stack Developer
 
-* GitHub: [https://github.com/SALVADORPOETA](https://github.com/SALVADORPOETA)
-* LinkedIn: [https://www.linkedin.com/in/salvador-martinez-sm/](https://www.linkedin.com/in/salvador-martinez-sm/)
+* [GitHub](https://github.com/SALVADORPOETA)
+* [LinkedIn](https://www.linkedin.com/in/salvador-martinez-sm/)
 
 ---
 
