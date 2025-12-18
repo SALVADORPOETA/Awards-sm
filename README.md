@@ -152,4 +152,3 @@ Frontend Developer
 
 This project is intended for **educational and portfolio use only**.  
 All design credits belong to their respective owners.
-```
