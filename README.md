@@ -106,7 +106,7 @@ Through this project, I practiced and reinforced:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SALVADORPOETA/Awards-sm
+git clone https://github.com/SALVADORPOETA/Awards-sm.git
 cd Awards-sm
 ```
 
