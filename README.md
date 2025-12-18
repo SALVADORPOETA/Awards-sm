@@ -106,7 +106,7 @@ Through this project, I practiced and reinforced:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SALVADORPOETA/Awards-sm.git
+git clone https://github.com/SALVADORPOETA/Awards-sm
 cd Awards-sm
 ```
 
@@ -143,7 +143,7 @@ This project is **not intended for commercial use**.
 Developed by **Salvador Martínez**  
 Frontend Developer
 
-* GitHub: https://github.com/SALVADORPOETA(https://github.com/SALVADORPOETA)
+* GitHub: [https://github.com/SALVADORPOETA](https://github.com/SALVADORPOETA)
 * LinkedIn: [https://www.linkedin.com/in/salvador-martinez-sm/](https://www.linkedin.com/in/salvador-martinez-sm/)
 
 ---
