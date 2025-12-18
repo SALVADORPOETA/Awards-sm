@@ -1,6 +1,6 @@
-# Awards Web
+# Awards
 
-Awards Web is a **high-end animated landing page** built with **React, Tailwind CSS, and GSAP**, focused on immersive motion, interactive UI components, and modern frontend architecture.
+Awards is a **high-end animated landing page** built with **React, Tailwind CSS, and GSAP**, focused on immersive motion, interactive UI components, and modern frontend architecture.
 
 This project was developed by following a **tutorial from the YouTube channel *JavaScript Mastery***, which itself was created using the **visual design and inspiration of the Zentry website**.
 The purpose of this project is **educational and portfolio-oriented**, showcasing advanced frontend techniques used in modern, animation-heavy web experiences.
@@ -106,8 +106,8 @@ Through this project, I practiced and reinforced:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/awards-web.git
-cd awards-web
+git clone https://github.com/SALVADORPOETA/Awards-sm.git
+cd Awards-sm
 ```
 
 ### 2. Install dependencies
@@ -138,13 +138,13 @@ This project is **not intended for commercial use**.
 
 ---
 
-## 👨‍💻 Author
+## 👨🏽‍💻 Author
 
 Developed by **Salvador Martínez**  
 Frontend Developer
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* GitHub: https://github.com/SALVADORPOETA(https://github.com/SALVADORPOETA)
+* LinkedIn: [https://www.linkedin.com/in/salvador-martinez-sm/](https://www.linkedin.com/in/salvador-martinez-sm/)
 
 ---
 
