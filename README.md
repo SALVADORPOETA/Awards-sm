@@ -6,7 +6,6 @@ Another section highlights animated text and images in unique shapes, complete w
 
 ![awards](https://github.com/user-attachments/assets/6d424bd1-dbf8-4288-a1eb-447c048e2f06)
 
-```markdown
 # 🏆 Awards Web
 
 Awards Web is a **high-end animated landing page** built with **React, Tailwind CSS, and GSAP**, focused on immersive motion, interactive UI components, and modern frontend architecture.
