@@ -138,10 +138,10 @@ This project is **not intended for commercial use**.
 
 ---
 
-## 👨🏽‍💻 Author
+## 👨🏽‍💻 Developer
 
-Developed by **Salvador Martínez**  
-Frontend Developer
+Implemented by **Salvador Martínez**  
+Full-Stack Developer
 
 * GitHub: [https://github.com/SALVADORPOETA](https://github.com/SALVADORPOETA)
 * LinkedIn: [https://www.linkedin.com/in/salvador-martinez-sm/](https://www.linkedin.com/in/salvador-martinez-sm/)
