@@ -150,5 +150,4 @@ Full-Stack Developer
 
 ## 📄 License
 
-This project is intended for **educational and portfolio use only**.  
-All design credits belong to their respective owners.
+This is a personal portfolio project by Salvador Martinez based on a JavaScript Mastery tutorial. No commercial use intended.
