@@ -151,3 +151,7 @@ Full-Stack Developer
 ## ⚖️ License
 
 This is a personal portfolio project by Salvador Martinez based on a JavaScript Mastery tutorial. No commercial use intended.
+
+---
+
+**Made by Salvador Martinez**
