@@ -29,10 +29,6 @@ The purpose of this project is **educational and portfolio-oriented**, showcasin
 
 <img width="757" height="631" alt="awards1" src="https://github.com/user-attachments/assets/cd3b6584-9061-484a-bb31-770c92da0afb" />
 
-<img width="763" height="623" alt="awards2" src="https://github.com/user-attachments/assets/20a6c84f-a3d8-4af3-962c-cbb6dc11cf8b" />
-
-<img width="759" height="629" alt="awards3" src="https://github.com/user-attachments/assets/76fa1faf-14f4-467d-97b6-147001c932af" />
-
 ---
 
 ## 🚀 Features
@@ -45,6 +41,8 @@ The purpose of this project is **educational and portfolio-oriented**, showcasin
 * 📜 **Scroll-triggered animations**
 * 📱 **Fully responsive design**
 * ⚡ **High-performance UI rendering**
+
+<img width="763" height="623" alt="awards2" src="https://github.com/user-attachments/assets/20a6c84f-a3d8-4af3-962c-cbb6dc11cf8b" />
 
 ---
 
@@ -61,6 +59,8 @@ The purpose of this project is **educational and portfolio-oriented**, showcasin
   * Clip-path
   * Masking
   * Perspective transforms
+
+<img width="759" height="629" alt="awards3" src="https://github.com/user-attachments/assets/76fa1faf-14f4-467d-97b6-147001c932af" />
 
 ---
 
