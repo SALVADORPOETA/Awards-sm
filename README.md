@@ -27,7 +27,7 @@ The purpose of this project is **educational and portfolio-oriented**, showcasin
 > ⚠️ This project is **not an original product design**.
 > It is an **educational implementation** intended to practice and demonstrate frontend engineering skills based on an existing tutorial and design reference.
 
-<img width="763" height="627" alt="awards1" src="https://github.com/user-attachments/assets/0d26edc9-7216-4030-af69-7d30de93bc8c" />
+<img width="757" height="631" alt="awards1" src="https://github.com/user-attachments/assets/cd3b6584-9061-484a-bb31-770c92da0afb" />
 
 <img width="763" height="623" alt="awards2" src="https://github.com/user-attachments/assets/20a6c84f-a3d8-4af3-962c-cbb6dc11cf8b" />
 
